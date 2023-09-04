@@ -1,2 +1,4 @@
 ### 9/04
-- [ ] Test task
+- [x] 45 min health
+- [ ] Document angular
+- [ ] Clean house
