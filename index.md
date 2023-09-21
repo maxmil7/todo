@@ -1,8 +1,14 @@
-### 9/05
-- [ ] 2x CAI/SDK integration
-- [ ] 1x experiment dashboard
-- [ ] 1x analytics dashboard
-- [ ] Follow up w/ R, door
+### 9/21
+- [ ] Cover, heater, follow up on grage door
+- [ ] 1x exp analytics
+- [ ] 2x slackbot
+- [ ] Hermesnodeweb headers, JWT deep dive
+
+### 9/20
+- [x] 2x CAI/SDK integration
+- [x] 1x experiment dashboard
+- [x] 1x analytics dashboard
+- [x] Follow up w/ R, door
       
 ### 9/04
 - [ ] 45 min health
