@@ -11,6 +11,6 @@
 - [x] Follow up w/ R, door
       
 ### 9/04
-- [ ] 45 min health
-- [ ] Document angular
+- [x] 45 min health
+- [x] Document angular
 - [ ] Clean house
